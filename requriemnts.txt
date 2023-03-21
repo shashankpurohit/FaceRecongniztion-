@@ -1,6 +1,10 @@
 pandas
 numpy
+<<<<<<< HEAD
 opencv-python-headless
 
 
 
+=======
+opencv-python
+>>>>>>> 2e9fa57 (final)
