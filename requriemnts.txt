@@ -1,6 +1,6 @@
 pandas
 numpy
-opencv-python
+opencv-python-heeadless
 
 
 
